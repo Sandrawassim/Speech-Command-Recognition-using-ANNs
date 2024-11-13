@@ -46,8 +46,8 @@ This project code provides a complete workflow for training and evaluating model
 Visualizes and verifies dataset paths and contents.
 #### Feature Extraction: 
 Extracts MFCC features and applies normalization to make the audio data suitable for neural network input.
-### ANN Model: 
+#### ANN Model: 
 Implements a dense ANN model as a baseline approach.
-### Evaluation and Visualization: 
+#### Evaluation and Visualization: 
 Evaluates both models using metrics like accuracy, precision, recall, and F1-score. Plots show training/validation accuracy and loss trends over epochs, providing insights into model performance and potential overfitting or underfitting.
 
