@@ -35,10 +35,14 @@ scikit-learn
 matplotlib
 
 ### Main Dependencies:
-TensorFlow: For building and training the neural networks.
-Librosa: For audio processing and feature extraction.
-scikit-learn: For label encoding, train-test splitting, and evaluation metrics.
-Matplotlib: For visualizing training and validation curves.
+#### TensorFlow:
+For building and training the neural networks.
+#### Librosa:
+For audio processing and feature extraction.
+#### scikit-learn: 
+For label encoding, train-test splitting, and evaluation metrics.
+#### Matplotlib: 
+For visualizing training and validation curves.
 
 ## About This Code
 This project code provides a complete workflow for training and evaluating models on spoken digit commands. Key elements include:
